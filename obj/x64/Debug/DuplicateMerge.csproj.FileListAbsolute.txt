@@ -1,0 +1,4 @@
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge - Copy\bin\x64\Debug\ConsoleApplication1.exe.config
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge - Copy\obj\x64\Debug\DuplicateMerge.csprojResolveAssemblyReference.cache
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge - Copy\obj\x64\Debug\ConsoleApplication1.Form1.resources
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge - Copy\obj\x64\Debug\DuplicateMerge.csproj.GenerateResource.Cache

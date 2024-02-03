@@ -1,0 +1,161 @@
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge\bin\Debug\ConsoleApplication1.exe
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge\bin\Debug\EPPlus.dll
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge\bin\Debug\MaterialSkin.dll
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge\bin\Debug\EPPlus.xml
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge\obj\Debug\DuplicateMerge.csprojResolveAssemblyReference.cache
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge\obj\Debug\ConsoleApplication1.Form1.resources
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge\obj\Debug\DuplicateMerge.csproj.GenerateResource.Cache
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge\obj\Debug\ConsoleApplication1.exe
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge - Copy\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge - Copy\obj\Debug\ConsoleApplication1.exe
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge - Copy\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge - Copy\bin\Debug\ConsoleApplication1.exe
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge - Copy\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge - Copy\bin\Debug\EPPlus.dll
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge - Copy\bin\Debug\MaterialSkin.dll
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge - Copy\bin\Debug\EPPlus.xml
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge - Copy\obj\Debug\DuplicateMerge.csprojResolveAssemblyReference.cache
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge - Copy\obj\Debug\ConsoleApplication1.Form1.resources
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge - Copy\obj\Debug\DuplicateMerge.csproj.GenerateResource.Cache
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_1\bin\Debug\EPPlus.dll
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_1\bin\Debug\MaterialSkin.dll
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_1\bin\Debug\EPPlus.xml
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_1\obj\Debug\ConsoleApplication1.Form1.resources
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_1\obj\Debug\DuplicateMerge.csproj.GenerateResource.Cache
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_1_temp\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_1_temp\obj\Debug\ConsoleApplication1.exe
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_1_temp\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_1_temp\obj\Debug\DuplicateMerge.csprojResolveAssemblyReference.cache
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_1_temp\obj\Debug\ConsoleApplication1.Form1.resources
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_1_temp\obj\Debug\DuplicateMerge.csproj.GenerateResource.Cache
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_1_temp\bin\Debug\ConsoleApplication1.exe
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_1_temp\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_1_temp\bin\Debug\EPPlus.dll
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_1_temp\bin\Debug\MaterialSkin.dll
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_1_temp\bin\Debug\EPPlus.xml
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_1_temp1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_1_temp1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_1_temp1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_1_temp1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_1_temp1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_1_temp1\bin\Debug\EPPlus.dll
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_1_temp1\bin\Debug\MaterialSkin.dll
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_1_temp1\bin\Debug\EPPlus.xml
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_1_temp1\obj\Debug\DuplicateMerge.csprojResolveAssemblyReference.cache
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_1_temp1\obj\Debug\ConsoleApplication1.Form1.resources
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_1_temp1\obj\Debug\DuplicateMerge.csproj.GenerateResource.Cache
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_West\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_West\obj\Debug\ConsoleApplication1.exe
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_West\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_West\bin\Debug\ConsoleApplication1.exe
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_West\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_West\bin\Debug\EPPlus.dll
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_West\bin\Debug\MaterialSkin.dll
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_West\bin\Debug\EPPlus.xml
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_West\obj\Debug\DuplicateMerge.csprojResolveAssemblyReference.cache
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_West\obj\Debug\ConsoleApplication1.Form1.resources
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_West\obj\Debug\DuplicateMerge.csproj.GenerateResource.Cache
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_West - Copy\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_West - Copy\obj\Debug\ConsoleApplication1.exe
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_West - Copy\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_West - Copy\bin\Debug\ConsoleApplication1.exe
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_West - Copy\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_West - Copy\bin\Debug\EPPlus.dll
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_West - Copy\bin\Debug\MaterialSkin.dll
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_West - Copy\bin\Debug\EPPlus.xml
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_West - Copy\obj\Debug\DuplicateMerge.csprojResolveAssemblyReference.cache
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_West - Copy\obj\Debug\ConsoleApplication1.Form1.resources
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_West - Copy\obj\Debug\DuplicateMerge.csproj.GenerateResource.Cache
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_North\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_North\obj\Debug\ConsoleApplication1.exe
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_North\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_North\obj\Debug\DuplicateMerge.csprojResolveAssemblyReference.cache
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_North\obj\Debug\ConsoleApplication1.Form1.resources
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_North\obj\Debug\ConsoleApplication1.Form2.resources
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_North\obj\Debug\DuplicateMerge.csproj.GenerateResource.Cache
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_North\bin\Debug\ConsoleApplication1.exe
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_North\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_North\bin\Debug\EPPlus.dll
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_North\bin\Debug\MaterialSkin.dll
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_North\bin\Debug\MdiTabControl.dll
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_North\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_North\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_North\bin\Debug\MdiTabControl.pdb
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_North\bin\Debug\MdiTabControl.xml
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_North\bin\Debug\EPPlus.xml
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_South\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_South\obj\Debug\ConsoleApplication1.exe
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_South\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_South\bin\Debug\ConsoleApplication1.exe
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_South\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_South\bin\Debug\EPPlus.dll
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_South\bin\Debug\MaterialSkin.dll
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_South\bin\Debug\MdiTabControl.dll
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_South\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_South\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_South\bin\Debug\MdiTabControl.pdb
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_South\bin\Debug\MdiTabControl.xml
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_South\bin\Debug\EPPlus.xml
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_South\obj\Debug\DuplicateMerge.csprojResolveAssemblyReference.cache
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_South\obj\Debug\ConsoleApplication1.Form1.resources
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_South\obj\Debug\ConsoleApplication1.Form2.resources
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_South\obj\Debug\DuplicateMerge.csproj.GenerateResource.Cache
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_Latest\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_Latest\obj\Debug\ConsoleApplication1.exe
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_Latest\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_Latest\bin\Debug\ConsoleApplication1.exe
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_Latest\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_Latest\bin\Debug\EPPlus.dll
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_Latest\bin\Debug\MaterialSkin.dll
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_Latest\bin\Debug\MdiTabControl.dll
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_Latest\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_Latest\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_Latest\bin\Debug\MdiTabControl.pdb
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_Latest\bin\Debug\MdiTabControl.xml
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_Latest\bin\Debug\EPPlus.xml
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_Latest\obj\Debug\ConsoleApplication1.Form1.resources
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_Latest\obj\Debug\ConsoleApplication1.Form2.resources
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_Latest\obj\Debug\DuplicateMerge.csproj.GenerateResource.Cache
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_Latest\obj\Debug\DuplicateMerge.csprojResolveAssemblyReference.cache
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\obj\Debug\ConsoleApplication1.exe
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\bin\Debug\ConsoleApplication1.exe
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\bin\Debug\EPPlus.dll
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\bin\Debug\MaterialSkin.dll
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\bin\Debug\MdiTabControl.dll
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\bin\Debug\MdiTabControl.pdb
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\bin\Debug\MdiTabControl.xml
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\bin\Debug\EPPlus.xml
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\obj\Debug\ConsoleApplication1.Form1.resources
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\obj\Debug\ConsoleApplication1.Form2.resources
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\obj\Debug\DuplicateMerge.csproj.GenerateResource.Cache
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\obj\Debug\DuplicateMerge.csprojResolveAssemblyReference.cache
+C:\DESKTOP_BACKUP\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\bin\Debug\ConsoleApplication1.exe.config
+C:\DESKTOP_BACKUP\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\obj\Debug\ConsoleApplication1.exe
+C:\DESKTOP_BACKUP\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\obj\Debug\ConsoleApplication1.pdb
+C:\DESKTOP_BACKUP\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\bin\Debug\ConsoleApplication1.exe
+C:\DESKTOP_BACKUP\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\bin\Debug\ConsoleApplication1.pdb
+C:\DESKTOP_BACKUP\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\bin\Debug\EPPlus.dll
+C:\DESKTOP_BACKUP\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\bin\Debug\MaterialSkin.dll
+C:\DESKTOP_BACKUP\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\bin\Debug\MdiTabControl.dll
+C:\DESKTOP_BACKUP\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\DESKTOP_BACKUP\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\DESKTOP_BACKUP\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\bin\Debug\MdiTabControl.pdb
+C:\DESKTOP_BACKUP\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\bin\Debug\MdiTabControl.xml
+C:\DESKTOP_BACKUP\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\bin\Debug\EPPlus.xml
+C:\DESKTOP_BACKUP\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\obj\Debug\DuplicateMerge.csprojResolveAssemblyReference.cache
+C:\DESKTOP_BACKUP\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\obj\Debug\ConsoleApplication1.Form1.resources
+C:\DESKTOP_BACKUP\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\obj\Debug\ConsoleApplication1.Form2.resources
+C:\DESKTOP_BACKUP\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\obj\Debug\DuplicateMerge.csproj.GenerateResource.Cache

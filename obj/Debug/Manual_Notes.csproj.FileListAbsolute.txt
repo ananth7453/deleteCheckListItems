@@ -1,0 +1,169 @@
+C:\DESKTOP_BACKUP\ELGI_WORK_FROM_HOME\CRM_SOURCE_CODE\Manual_Notes_Move\obj\Debug\Manual_Notes.csproj.GenerateResource.Cache
+C:\DESKTOP_BACKUP\ELGI_WORK_FROM_HOME\CRM_SOURCE_CODE\Manual_Notes_Move\bin\Debug\EPPlus.dll
+C:\DESKTOP_BACKUP\ELGI_WORK_FROM_HOME\CRM_SOURCE_CODE\Manual_Notes_Move\bin\Debug\MaterialSkin.dll
+C:\DESKTOP_BACKUP\ELGI_WORK_FROM_HOME\CRM_SOURCE_CODE\Manual_Notes_Move\bin\Debug\MdiTabControl.dll
+C:\DESKTOP_BACKUP\ELGI_WORK_FROM_HOME\CRM_SOURCE_CODE\Manual_Notes_Move\bin\Debug\MdiTabControl.pdb
+C:\DESKTOP_BACKUP\ELGI_WORK_FROM_HOME\CRM_SOURCE_CODE\Manual_Notes_Move\bin\Debug\MdiTabControl.xml
+C:\DESKTOP_BACKUP\ELGI_WORK_FROM_HOME\CRM_SOURCE_CODE\Manual_Notes_Move\bin\Debug\EPPlus.xml
+C:\DESKTOP_BACKUP\ELGI_WORK_FROM_HOME\CRM_SOURCE_CODE\Manual_Notes_Move\bin\Debug\Manual_Notes.exe.config
+C:\DESKTOP_BACKUP\ELGI_WORK_FROM_HOME\CRM_SOURCE_CODE\Manual_Notes_Move\bin\Debug\Manual_Notes.exe
+C:\DESKTOP_BACKUP\ELGI_WORK_FROM_HOME\CRM_SOURCE_CODE\Manual_Notes_Move\bin\Debug\Manual_Notes.pdb
+C:\DESKTOP_BACKUP\ELGI_WORK_FROM_HOME\CRM_SOURCE_CODE\Manual_Notes_Move\obj\Debug\Manual_Notes.Form1.resources
+C:\DESKTOP_BACKUP\ELGI_WORK_FROM_HOME\CRM_SOURCE_CODE\Manual_Notes_Move\obj\Debug\Manual_Notes.exe
+C:\DESKTOP_BACKUP\ELGI_WORK_FROM_HOME\CRM_SOURCE_CODE\Manual_Notes_Move\obj\Debug\Manual_Notes.pdb
+D:\DROPBOX_FOLDER\Dropbox (Pricol Advanced)\SYNC\CRM_SOURCE_CODE\Manual_Notes_Move\bin\Debug\Manual_Notes.exe.config
+D:\DROPBOX_FOLDER\Dropbox (Pricol Advanced)\SYNC\CRM_SOURCE_CODE\Manual_Notes_Move\bin\Debug\Manual_Notes.exe
+D:\DROPBOX_FOLDER\Dropbox (Pricol Advanced)\SYNC\CRM_SOURCE_CODE\Manual_Notes_Move\bin\Debug\Manual_Notes.pdb
+D:\DROPBOX_FOLDER\Dropbox (Pricol Advanced)\SYNC\CRM_SOURCE_CODE\Manual_Notes_Move\bin\Debug\EPPlus.dll
+D:\DROPBOX_FOLDER\Dropbox (Pricol Advanced)\SYNC\CRM_SOURCE_CODE\Manual_Notes_Move\bin\Debug\MaterialSkin.dll
+D:\DROPBOX_FOLDER\Dropbox (Pricol Advanced)\SYNC\CRM_SOURCE_CODE\Manual_Notes_Move\bin\Debug\MdiTabControl.dll
+D:\DROPBOX_FOLDER\Dropbox (Pricol Advanced)\SYNC\CRM_SOURCE_CODE\Manual_Notes_Move\bin\Debug\MdiTabControl.pdb
+D:\DROPBOX_FOLDER\Dropbox (Pricol Advanced)\SYNC\CRM_SOURCE_CODE\Manual_Notes_Move\bin\Debug\MdiTabControl.xml
+D:\DROPBOX_FOLDER\Dropbox (Pricol Advanced)\SYNC\CRM_SOURCE_CODE\Manual_Notes_Move\bin\Debug\MdiTabControl.dll.config
+D:\DROPBOX_FOLDER\Dropbox (Pricol Advanced)\SYNC\CRM_SOURCE_CODE\Manual_Notes_Move\bin\Debug\EPPlus.xml
+D:\DROPBOX_FOLDER\Dropbox (Pricol Advanced)\SYNC\CRM_SOURCE_CODE\Manual_Notes_Move\obj\Debug\Manual_Notes.Form1.resources
+D:\DROPBOX_FOLDER\Dropbox (Pricol Advanced)\SYNC\CRM_SOURCE_CODE\Manual_Notes_Move\obj\Debug\Manual_Notes.csproj.GenerateResource.cache
+D:\DROPBOX_FOLDER\Dropbox (Pricol Advanced)\SYNC\CRM_SOURCE_CODE\Manual_Notes_Move\obj\Debug\Manual_Notes.csproj.CoreCompileInputs.cache
+D:\DROPBOX_FOLDER\Dropbox (Pricol Advanced)\SYNC\CRM_SOURCE_CODE\Manual_Notes_Move\obj\Debug\Manual_Notes.csproj.CopyComplete
+D:\DROPBOX_FOLDER\Dropbox (Pricol Advanced)\SYNC\CRM_SOURCE_CODE\Manual_Notes_Move\obj\Debug\Manual_Notes.exe
+D:\DROPBOX_FOLDER\Dropbox (Pricol Advanced)\SYNC\CRM_SOURCE_CODE\Manual_Notes_Move\obj\Debug\Manual_Notes.pdb
+D:\crmmain\CRM_SOURCE_CODE1\Manual_Notes_Move\obj\Debug\Manual_Notes.exe.config
+D:\crmmain\CRM_SOURCE_CODE1\Manual_Notes_Move\obj\Debug\Manual_Notes.Form1.resources
+D:\crmmain\CRM_SOURCE_CODE1\Manual_Notes_Move\obj\Debug\Manual_Notes.csproj.GenerateResource.cache
+D:\crmmain\CRM_SOURCE_CODE1\Manual_Notes_Move\obj\Debug\Manual_Notes.csproj.CoreCompileInputs.cache
+D:\crmmain\CRM_SOURCE_CODE1\Manual_Notes_Move\obj\Debug\Manual_Notes.exe
+D:\crmmain\CRM_SOURCE_CODE1\Manual_Notes_Move\obj\Debug\Manual_Notes.pdb
+D:\crmmain\CRM_SOURCE_CODE1\Manual_Notes_Move\bin\Debug\Manual_Notes.exe.config
+D:\crmmain\CRM_SOURCE_CODE1\Manual_Notes_Move\bin\Debug\Manual_Notes.exe
+D:\crmmain\CRM_SOURCE_CODE1\Manual_Notes_Move\bin\Debug\Manual_Notes.pdb
+D:\crmmain\CRM_SOURCE_CODE1\Manual_Notes_Move\bin\Debug\EPPlus.dll
+D:\crmmain\CRM_SOURCE_CODE1\Manual_Notes_Move\bin\Debug\MaterialSkin.dll
+D:\crmmain\CRM_SOURCE_CODE1\Manual_Notes_Move\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\crmmain\CRM_SOURCE_CODE1\Manual_Notes_Move\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+D:\crmmain\CRM_SOURCE_CODE1\Manual_Notes_Move\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\crmmain\CRM_SOURCE_CODE1\Manual_Notes_Move\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+D:\crmmain\CRM_SOURCE_CODE1\Manual_Notes_Move\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+D:\crmmain\CRM_SOURCE_CODE1\Manual_Notes_Move\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+D:\crmmain\CRM_SOURCE_CODE1\Manual_Notes_Move\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+D:\crmmain\CRM_SOURCE_CODE1\Manual_Notes_Move\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+D:\crmmain\CRM_SOURCE_CODE1\Manual_Notes_Move\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\crmmain\CRM_SOURCE_CODE1\Manual_Notes_Move\bin\Debug\Newtonsoft.Json.dll
+D:\crmmain\CRM_SOURCE_CODE1\Manual_Notes_Move\bin\Debug\System.Buffers.dll
+D:\crmmain\CRM_SOURCE_CODE1\Manual_Notes_Move\bin\Debug\System.Memory.dll
+D:\crmmain\CRM_SOURCE_CODE1\Manual_Notes_Move\bin\Debug\System.Numerics.Vectors.dll
+D:\crmmain\CRM_SOURCE_CODE1\Manual_Notes_Move\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\crmmain\CRM_SOURCE_CODE1\Manual_Notes_Move\bin\Debug\System.Text.Encodings.Web.dll
+D:\crmmain\CRM_SOURCE_CODE1\Manual_Notes_Move\bin\Debug\System.Text.Json.dll
+D:\crmmain\CRM_SOURCE_CODE1\Manual_Notes_Move\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\crmmain\CRM_SOURCE_CODE1\Manual_Notes_Move\bin\Debug\System.ValueTuple.dll
+D:\crmmain\CRM_SOURCE_CODE1\Manual_Notes_Move\bin\Debug\MdiTabControl.dll
+D:\crmmain\CRM_SOURCE_CODE1\Manual_Notes_Move\bin\Debug\MdiTabControl.pdb
+D:\crmmain\CRM_SOURCE_CODE1\Manual_Notes_Move\bin\Debug\MdiTabControl.xml
+D:\crmmain\CRM_SOURCE_CODE1\Manual_Notes_Move\bin\Debug\MdiTabControl.dll.config
+D:\crmmain\CRM_SOURCE_CODE1\Manual_Notes_Move\obj\Debug\Manual_Notes.csproj.CopyComplete
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\Manual_Notes.exe.config
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\Manual_Notes.exe
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\Manual_Notes.pdb
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\Azure.Core.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\Azure.Storage.Blobs.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\Azure.Storage.Common.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\EPPlus.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\MaterialSkin.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\System.Buffers.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\System.IO.Hashing.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\System.Memory.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\System.Memory.Data.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\System.Text.Json.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\System.ValueTuple.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\System.Data.Common.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\System.IO.Compression.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\System.Net.Http.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\System.Net.Sockets.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\System.Security.SecureString.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\MdiTabControl.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\MdiTabControl.pdb
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\MdiTabControl.xml
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\bin\Debug\MdiTabControl.dll.config
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\obj\Debug\Manual_Notes.csproj.AssemblyReference.cache
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\obj\Debug\Manual_Notes.exe.config
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\obj\Debug\Manual_Notes.Form1.resources
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\obj\Debug\Manual_Notes.csproj.GenerateResource.cache
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\obj\Debug\Manual_Notes.csproj.CoreCompileInputs.cache
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\obj\Debug\Manual_Notes.csproj.CopyComplete
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\obj\Debug\Manual_Notes.exe
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test\obj\Debug\Manual_Notes.pdb
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\Manual_Notes.exe.config
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\Manual_Notes.exe
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\Manual_Notes.pdb
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\Azure.Core.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\Azure.Storage.Blobs.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\Azure.Storage.Common.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\EPPlus.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\MaterialSkin.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\System.Buffers.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\System.IO.Hashing.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\System.Memory.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\System.Memory.Data.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\System.Text.Json.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\System.ValueTuple.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\System.Data.Common.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\System.IO.Compression.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\System.Net.Http.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\System.Net.Sockets.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\System.Security.SecureString.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\MdiTabControl.dll
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\MdiTabControl.pdb
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\MdiTabControl.xml
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\bin\Debug\MdiTabControl.dll.config
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\obj\Debug\Manual_Notes.exe.config
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\obj\Debug\Manual_Notes.Form1.resources
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\obj\Debug\Manual_Notes.csproj.GenerateResource.cache
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\obj\Debug\Manual_Notes.csproj.CoreCompileInputs.cache
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\obj\Debug\Manual_Notes.csproj.CopyComplete
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\obj\Debug\Manual_Notes.exe
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\obj\Debug\Manual_Notes.pdb
+C:\Users\anuprakash\OneDrive - ELGi Equipments Ltd\Desktop\Manual_Notes_Move_Test - Copy\obj\Debug\Manual_Notes.csproj.AssemblyReference.cache

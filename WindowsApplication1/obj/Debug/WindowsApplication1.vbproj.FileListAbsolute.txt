@@ -1,0 +1,7 @@
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_North\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_North\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_North\WindowsApplication1\obj\Debug\WindowsApplication1.TabControl.resources
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_North\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_North\WindowsApplication1\obj\Debug\MdiTabControl.Resources.resources
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_North\WindowsApplication1\obj\Debug\MdiTabControl.TabControl.resources
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_North\WindowsApplication1\obj\Debug\MdiTabControl.xml

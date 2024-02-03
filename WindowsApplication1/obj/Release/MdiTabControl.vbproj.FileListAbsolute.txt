@@ -1,0 +1,10 @@
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\WindowsApplication1\bin\Release\MdiTabControl.dll.config
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\WindowsApplication1\bin\Release\MdiTabControl.dll
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\WindowsApplication1\bin\Release\MdiTabControl.pdb
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\WindowsApplication1\bin\Release\MdiTabControl.xml
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\WindowsApplication1\obj\Release\MdiTabControl.Resources.resources
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\WindowsApplication1\obj\Release\MdiTabControl.TabControl.resources
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\WindowsApplication1\obj\Release\MdiTabControl.vbproj.GenerateResource.Cache
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\WindowsApplication1\obj\Release\MdiTabControl.dll
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\WindowsApplication1\obj\Release\MdiTabControl.xml
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\WindowsApplication1\obj\Release\MdiTabControl.pdb

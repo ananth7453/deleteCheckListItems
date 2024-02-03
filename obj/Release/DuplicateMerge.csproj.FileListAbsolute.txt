@@ -1,0 +1,17 @@
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\bin\Release\ConsoleApplication1.exe.config
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\bin\Release\ConsoleApplication1.exe
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\bin\Release\ConsoleApplication1.pdb
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\bin\Release\EPPlus.dll
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\bin\Release\MaterialSkin.dll
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\bin\Release\MdiTabControl.dll
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\bin\Release\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\bin\Release\Microsoft.Xrm.Sdk.dll
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\bin\Release\MdiTabControl.pdb
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\bin\Release\MdiTabControl.xml
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\bin\Release\EPPlus.xml
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\obj\Release\DuplicateMerge.csprojResolveAssemblyReference.cache
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\obj\Release\ConsoleApplication1.Form1.resources
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\obj\Release\ConsoleApplication1.Form2.resources
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\obj\Release\DuplicateMerge.csproj.GenerateResource.Cache
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\obj\Release\ConsoleApplication1.exe
+C:\Users\Anu Prakash\Desktop\ELGI_WORK_FROM_HOME\DuplicateMerge_OnlyGUID\obj\Release\ConsoleApplication1.pdb
